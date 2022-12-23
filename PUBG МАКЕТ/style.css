@@ -1,0 +1,18 @@
+body{margin:0;
+     font-family: Montserrat , Roboto
+}
+
+.headar{
+    background-image: url(img/blueheader.jpeg.png);
+    display: flex;
+}
+.nav-item{
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: 17px;
+    margin-right:79px;
+}
+
+.text{ alight-item:right;
+    color: #FFFFFF;
+    font-size: 55px;}
